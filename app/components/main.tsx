@@ -59,7 +59,7 @@ function Main() {
         >
           {/* Header & Theme Toggle */}
           <div className="flex justify-between items-center mb-6">
-            <h1 className="text-3xl font-bold">Crypto Wallet Generator</h1>
+            <h1 className="text-3xl font-bold">Solana Wallet Generator</h1>
             <button
               className="p-2 rounded-lg bg-gray-800 hover:bg-gray-700 transition"
               onClick={() => setDarkMode(!darkMode)}
